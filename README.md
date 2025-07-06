@@ -33,6 +33,11 @@ This repository contains two Jupyter Notebooks designed to support urban resilie
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/yourusername/urban-resilience-toolkit.git
 cd urban-resilience-toolkit
+
+### 2. Setup Environment
+
+pip install -r requirements.txt
+
