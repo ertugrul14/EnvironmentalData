@@ -1,4 +1,5 @@
 # EnvironmentalData
+![Idea](Assets/b6b85d6d-cedd-45e3-9a62-286c502db6cf-3.png)
 
 # 🌍 Urban Resilience & Environmental Data Toolkit
 
@@ -16,7 +17,7 @@ This repository contains two Jupyter Notebooks designed to support urban resilie
 - Connects to satellite imagery providers (e.g., Google Earth Engine, SentinelHub)
 - Downloads and visualizes imagery data
 - Lays the groundwork for time-series or vegetation analysis
-
+![Map and segment](Assets/image-67.png)
 ---
 
 ### `Mapping Urban Resilience Template.ipynb`
@@ -27,7 +28,7 @@ This repository contains two Jupyter Notebooks designed to support urban resilie
 - Combines multiple layers of spatial data
 - Uses thematic mapping techniques to visualize vulnerabilities
 - Serves as a customizable framework for different cities or districts
-
+![Result](Assets/image-73.png)
 ---
 
 ## 🚀 Getting Started
