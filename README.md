@@ -3,7 +3,7 @@
 
 # 🌍 Urban Resilience & Environmental Data Toolkit
 
-This repository contains two Jupyter Notebooks designed to support urban resilience mapping and environmental data analysis using satellite imagery and geospatial methods. Developed for academic, planning, and research purposes, these notebooks provide a foundation for spatial analysis and resilience assessment in urban contexts.
+This repository contains two Jupyter Notebooks designed to support urban resilience mapping and environmental data analysis using satellite imagery and geospatial methods. Developed for academic, planning, and research purposes, these notebooks provide a foundation for spatial analysis and resilience assessment in urban contexts. These tools are designed to be easily extended for new datasets or additional indicators in future research.
 
 ---
 
@@ -41,4 +41,7 @@ cd urban-resilience-toolkit
 ### 2. Setup Environment
 
 pip install -r requirements.txt
+
+Before you begin, ensure you have Python 3.8 or newer installed on your system.
+
 
